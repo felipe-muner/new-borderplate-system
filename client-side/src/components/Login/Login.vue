@@ -1,17 +1,16 @@
-<template>
-  <div id="app">
-    <router-view/>
+<template lang="html">
+  <div class="">
+    alow
   </div>
 </template>
 
 <script>
-
 export default {
-  name: 'app'
 }
 </script>
 
-<style>
+<style lang="css">
+
 /* #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
